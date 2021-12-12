@@ -37,7 +37,7 @@ public abstract class Persona {
 	}
 	
 	public void viajar() {
-		System.out.println("Viajar");
+		System.out.println("Viaja");
 	}
 	
 	public abstract void partidoFutbol();
