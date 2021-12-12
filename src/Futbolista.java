@@ -30,6 +30,10 @@ public class Futbolista extends Persona{
 		System.out.println("Entrena");
 	}
 	
+	public void entrevista() {
+		
+		System.out.println("Da una Entrevista");
+	}
 	
 
 }
